@@ -14,7 +14,6 @@
 ```python
 # code block with language
 print("hello")
-
 | Column 1 | Column 2 |
 |----------|----------|
 | Cell A   | Cell B   |
